@@ -1,0 +1,14 @@
+body {
+	background-color:#999;
+	font-family: arial;
+}
+
+a {
+	color: green;
+}
+
+p {
+	background-color: #555;
+	color:white;
+	padding: 10px;
+}
