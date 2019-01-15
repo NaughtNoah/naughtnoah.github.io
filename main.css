@@ -3,6 +3,11 @@ body {
 	font-family: arial;
 }
 
+header {
+	background-color:#999;
+	margin: 0;
+	padding:15px 15px 0 15px;
+}
 a {
 	color: green;
 }
@@ -31,10 +36,4 @@ nav ul li {
 
 nav ul li a {
 	color: white;
-}
-
-header {
-	background-color:#999;
-	margin: 0;
-	padding:15px 15px 0 15px;
 }
