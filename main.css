@@ -12,6 +12,11 @@ a {
 	color: green;
 }
 
+header h1 {
+	display: inline;
+	margin: 0;
+}
+
 p {
 	background-color: #555;
 	color:white;
@@ -28,6 +33,7 @@ nav ul {
 
 nav ul li {
 	display: inline-block;
+	color: white;
 	background-color: black;
 	list-style-type: none;
 	padding: 5px;
