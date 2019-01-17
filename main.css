@@ -30,3 +30,7 @@
 	float: right;
 	text-align: left;
 }
+
+#nav-bar ul li a: hover {
+color: #007bff!important;
+}
