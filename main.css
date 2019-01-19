@@ -111,6 +111,9 @@ h1::after {
 	width: 170px;
 	margin: 20px auto 5px;
 }
+.img-responsive {
+	height: 50px;
+}
 
 
 
