@@ -114,6 +114,37 @@ h1::after {
 .img-responsive {
 	height: 200px;
 }
+.profile-pic {
+	margin-top: 25px;
+
+}
+.profile-pic .img-box {
+	opacity: 1;
+	display: block;
+	position: relative; 
+}
+.profile-pic .img-box img{
+	filter: grayscale(1);
+
+}
+.profile-pic .img-box img:hover{
+filter: grayscale(0);
+cursor: pointer;
+
+}
+.profile-pic h2 {
+	font-weight: bold;
+	font-size: 22px;
+	margin-top: 15px;
+	color: #007bff!important;
+}
+.profile-pic h3 {
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: 15px;
+}
+
+
 
 
 
