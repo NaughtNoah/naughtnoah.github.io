@@ -63,7 +63,7 @@ color: #007bff!important;
 }
 .carousel-caption h5
 {
-	color: #000;
+	color: white;
 	font-size: 42px;
 }
 
@@ -99,12 +99,12 @@ margin-bottom: 30px;
 	color: #555;
 
 }
-#team h1 {
+h1 {
 	text-align: center;
 	color: #555!important;
 	padding-bottom: 10px;
 }
-#team h1::after {
+h1::after {
 	content: '';
 	background:#007bff;
 	display: block;
@@ -144,7 +144,7 @@ cursor: pointer;
 	font-size: 15px;
 	margin-top: 15px;
 }
-/*-----Timeline-----*/
+/*----------------------Timeline-------------------------*/
 #timeline body {
 	font-family: tahoma;
 	font-size: 15px;
