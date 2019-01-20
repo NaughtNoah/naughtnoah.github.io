@@ -176,7 +176,7 @@ body h1 {
 }
 .progressbar li:before {
   content: counter(step);
-  counter-increment: step;
+  counter-increment:step;
   width: 50px;
   height: 50px;
   line-height: 50px;
@@ -202,13 +202,13 @@ body h1 {
   content: none;
 }
 .progressbar li.active {
-  color: #f1c40f;
+  color: #007bff;
 }
 .progressbar li.active:before {
-  border-color: #f1c40f;
+  border-color: #007bff;
 }
 .progressbar li.active + li:after {
-  background-color: #f1c40f;
+  background-color: #007bff;
 }
 
 
