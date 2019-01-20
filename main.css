@@ -97,7 +97,7 @@ margin-bottom: 30px;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	color: #555;
-	float: left;
+
 }
 h1 {
 	text-align: center;
@@ -115,7 +115,7 @@ h1::after {
 .img-responsive {
 	height: 200px;
 }
-.profile-pic {
+.col-md-3 .profile .pic .text-center {
 	margin-top: 25px;
 
 }
