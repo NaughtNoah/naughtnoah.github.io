@@ -145,3 +145,20 @@ cursor: pointer;
 	margin-top: 15px;
 }
 /*-----Timeline-----*/
+#timeline body {
+	font-family: tahoma;
+	font-size: 15px;
+	line-height: 1.75;
+	padding: 0;
+	margin: 0;
+
+}
+#timeline {
+	display: flex;
+	background-color: #031625;
+}
+.t1-item {
+	transform: translate3d(0,0,0);
+	position: relative;
+}
+
