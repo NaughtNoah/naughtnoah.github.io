@@ -99,12 +99,12 @@ margin-bottom: 30px;
 	color: #555;
 
 }
-h1 {
+#team h1 {
 	text-align: center;
 	color: #555!important;
 	padding-bottom: 10px;
 }
-h1::after {
+#team h1::after {
 	content: '';
 	background:#007bff;
 	display: block;
