@@ -147,7 +147,7 @@ cursor: pointer;
 /*-----Timeline-----*/
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100);
 body {
-  background: #2c3e50;
+  background: #999;
   color: #ecf0f1;
   font-family: 'Roboto', sans-serif;
 }
