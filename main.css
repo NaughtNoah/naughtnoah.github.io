@@ -115,7 +115,7 @@ h1::after {
 .img-responsive {
 	height: 200px;
 }
-.col-md-3 .profile .pic .text-center {
+.profile-pic {
 	margin-top: 25px;
 
 }
