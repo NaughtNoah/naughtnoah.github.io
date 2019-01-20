@@ -162,7 +162,9 @@ body h1 {
   counter-reset: step;
   margin-top: 75px;
   padding: 0;
-  counter-increment: step 2014;
+  counter-increment: step 2004;
+  margin-bottom: 50px;
+  background: #555;
 }
 .progressbar li {
   list-style-type: none;
