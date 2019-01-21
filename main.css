@@ -237,7 +237,10 @@ transition: opacity 1s ease, transform 1s ease 0.25s;
 	left:50%;
 	transform: translateX(-50%) translateY(-50%);
 	z-index: 1;
-	border-top: 1px solid white;
+
+}
+.f2-heading {
+		border-top: 1px solid white;
 	border-bottom: 1px solid white;
 }
 .t1-year p{
