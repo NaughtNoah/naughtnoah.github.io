@@ -145,7 +145,7 @@ cursor: pointer;
 	margin-top: 15px;
 }
 /*----------------------Timeline-------------------------*/
-#timeline body {
+body {
 	font-family: tahoma;
 	font-size: 15px;
 	line-height: 1.75;
@@ -156,6 +156,8 @@ cursor: pointer;
 #timeline {
 	display: flex;
 	background-color: #031625;
+	height: 
+
 }
 #timeline:hover .t1-item {
 	width: 23.3333%;
