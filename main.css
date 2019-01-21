@@ -211,7 +211,7 @@ transition: opacity 1s ease, transform 1s ease 0.25s;
 	transform: translateY(0);
 	transition: all 0.75s ease 0.5s;
 }
-.t1-item .t1-bg {
+.t1-item:hover .t1-bg {
 	filter: grayscale(0);
 }
 .t1-content {
