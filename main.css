@@ -174,7 +174,7 @@ body {
 	transition: width 0.5s ease;
 
 }
-.t1-itrem:before, .t1-item:after {
+.t1-item:before, .t1-item:after {
 	transform: translate3d(0,0,0);
 	content:'';
 	position: absolute;
