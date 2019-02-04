@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+
+}
+
+
+.box-orange {
+position: absolute;
+background: orange;
+height: 100px;
+width: 100px;
+left: 5px;
+
+}
+
+.box-blue {
+background: blue;
+height: 100px;
+width: 100px;
+position: static;
+}
+.box-green {
+	background: green;
+	height: 100px;
+	width: 100px;
+	position: fixed;
+}
+
+.box-purple {
+	background: orange;
+	height: 100px;
+	width: 100px;
+	left: 100px;
+}
