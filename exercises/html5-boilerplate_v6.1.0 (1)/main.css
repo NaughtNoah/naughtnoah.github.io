@@ -9,10 +9,69 @@
 	margin: auto;
 	border: solid 1px #000;
 }
-.box {
+.box1 {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	position: static;
+	left: 100px;
+	top: 100px;
+	/*------default----*/
+}
+.box2 {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	position: absolute;
+	
+	}
+.box3 {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	position: sticky;
+	
+}
+.box4 {
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	position: relative;
+	top: 100px;
+	left:100px;
+	
+}
+.box5 {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	position: fixed;
+	
+}
+.box6 {
 	width: 100px;
 	height: 100px;
 	background-color: red;
 	position: relative;
-	left: 100px;
+	z-index: 0;
+	top: 20px;
+	left: 20px;
+}
+.box7 {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	position: relative;
+	z-index: 1;
+	top: 10px;
+	left: 10px;
+	
+}
+.box8 {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	position: relative;
+	z-index: 2;
+	
 }
