@@ -3,32 +3,16 @@
 
 }
 
-
-.box-orange {
-position: absolute;
-background: orange;
-height: 100px;
-width: 100px;
-left: 5px;
-
+.container {
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	border: solid 1px #000;
 }
-
-.box-blue {
-background: blue;
-height: 100px;
-width: 100px;
-position: static;
-}
-.box-green {
-	background: green;
-	height: 100px;
+.box {
 	width: 100px;
-	position: fixed;
-}
-
-.box-purple {
-	background: orange;
 	height: 100px;
-	width: 100px;
+	background-color: red;
+	position: relative;
 	left: 100px;
 }
